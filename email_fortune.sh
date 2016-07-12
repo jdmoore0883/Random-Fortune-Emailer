@@ -21,7 +21,7 @@
 
 # Email addresses in format:
 #       email1@email.com,email2@email.com,email3@email.com
-EMAILS="moorej@checkpoint.com,plafonta@checkpoint.com,delilah.durette@gmail.com,dpinault@checkpoint.com"
+EMAILS="email1@somewhere.com,email2@somewhere.com,email3@somewhere.com,email4@somewhere.com,email5@somewhere.com"
 
 HTML_START="<!DOCTYPE html><html><body><pre style=font-family:\"Courier New\">"
 HTML_END="</pre></body></html>"
